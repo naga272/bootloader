@@ -1,3 +1,7 @@
+; In a traditional design, it is responsible for memory management, I/O, interrupt handling, and various other things
+; come collegare il kernel al bootloader
+; https://stackoverflow.com/questions/21059483/loading-kernel-in-a-bootsector
+
 
 %define ENDL 0x0d, 0x0a
 %define EXIT_SUCCESS 0
